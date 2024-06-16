@@ -1,0 +1,11 @@
+Makefile:39: Makefile.dep: No such file or directory
+make: Warning: File `Makefile.dep' has modification time 1.3 s in the future
+file_system.c: In function ‘read_dentry_by_name’:
+file_system.c:70: warning: pointer targets in passing argument 1 of ‘strncmp’ differ in signedness
+file_system.c: In function ‘read_dir’:
+file_system.c:300: warning: unused variable ‘return_length’
+file_system.c:299: warning: unused variable ‘temp_dentry’
+file_system.c:298: warning: unused variable ‘l’
+file_system.c:297: warning: unused variable ‘k’
+paging_init.c:141:2: warning: no newline at end of file
+make: warning:  Clock skew detected.  Your build may be incomplete.

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "system_calls.h": "c",
+        "idt_handlers.h": "c",
+        "keyboard.h": "c"
+    }
+}
